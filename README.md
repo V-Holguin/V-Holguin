@@ -13,7 +13,7 @@
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
 - <b>SQL Cleaning and Excel Visualization</b>
-  - [Project Repository Link PLACEHOLDER](link)
+  - [Grass Germination](https://github.com/V-Holguin/Grass-Germination/tree/main)
  
 - <b>Python Cleaning and Tableau Visualization</b>
   - [Project Repository Link PLACEHOLDER](link)
