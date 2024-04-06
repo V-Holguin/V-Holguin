@@ -17,6 +17,10 @@
  
 - <b>Python Cleaning and Tableau Visualization</b>
   - [Project Repository Link PLACEHOLDER](link)
+ 
+<h2>📈 Tableau Profile:</h2>
+
+- <b>[Vincent.Holguin](https://public.tableau.com/app/profile/vincent.holguin/vizzes)
 
 <h2> 🤳 Connect with me:</h2>
 
