@@ -7,7 +7,7 @@
 
 <h2>🎖 Accomplishments:</h2>
 
-- <b>[Tableau Certification PLACEHOLDER](link)</b>
+- <b>[Studying for Tableau Certified Data Analyst Exam](link)</b>
 - <b>[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6TM3F9WLB9B8)</b>
 
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
