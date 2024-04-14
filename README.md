@@ -16,7 +16,7 @@
   - [Grass Germination](https://github.com/V-Holguin/Grass-Germination/tree/main)
  
 - <b>Python Cleaning and Tableau Visualization</b>
-  - [LAPD Crime (Still being organized on GitHub)](https://github.com/V-Holguin/LAPD-Crime)
+  - [LAPD Crime Data](https://github.com/V-Holguin/LAPD-Crime)
  
 <h2>📈 Tableau Profile:</h2>
 
