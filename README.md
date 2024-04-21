@@ -17,6 +17,9 @@
  
 - <b>Python Cleaning and Tableau Visualization</b>
   - [LAPD Crime Data](https://github.com/V-Holguin/LAPD-Crime)
+
+- <b>Data Exploration and Analysis in Python and R</b>
+  - [Projects](https://github.com/V-Holguin/Data-Exploration/tree/main)
  
 <h2>📈 Tableau Profile:</h2>
 
