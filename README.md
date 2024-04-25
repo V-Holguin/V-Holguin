@@ -7,8 +7,8 @@
 
 <h2>🎖 Accomplishments:</h2>
 
-- <b>[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6TM3F9WLB9B8)</b>
-- <b>[Certified Tableau Desktop Specialist](https://github.com/V-Holguin/CertificateHolderVHolguin/blob/main/Tableau%20Desktop%20Specialist%20Certificate.pdf)</b>
+- <b>[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6TM3F9WLB9B8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)</b>
+- <b>[Certified Tableau Desktop Specialist](https://www.credly.com/badges/29931a08-4ebc-4536-995a-3c7c72d8c253)</b>
 
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
