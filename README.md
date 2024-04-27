@@ -23,7 +23,7 @@
   - Featured:
       - [Dashboard in R](https://github.com/V-Holguin/Data-Exploration/tree/main/AmazonBooks)
  
-<h2>📈 Tableau Profile:</h2>
+<h2>📈 Tableau Dashboard Portfolio:</h2>
 
 - <b>[Vincent.Holguin](https://public.tableau.com/app/profile/vincent.holguin/vizzes)
 
