@@ -19,7 +19,9 @@
   - [LAPD Crime Data](https://github.com/V-Holguin/LAPD-Crime)
 
 - <b>Data Exploration and Analysis in Python and R</b>
-  - [Projects](https://github.com/V-Holguin/Data-Exploration/tree/main)
+  - [Python and R portfolio](https://github.com/V-Holguin/Data-Exploration/tree/main)
+  - Featured:
+      - [Dashboard in R](https://github.com/V-Holguin/Data-Exploration/tree/main/AmazonBooks)
  
 <h2>📈 Tableau Profile:</h2>
 
