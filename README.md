@@ -23,7 +23,9 @@
   - Featured:
       - [Dashboard in R](https://github.com/V-Holguin/Data-Exploration/tree/main/AmazonBooks)
 
-- [bash script](https://github.com/V-Holguin/SimpleBash/tree/main)
+- <b>Smaller Scipts</b>
+  - [bash script](https://github.com/V-Holguin/SimpleBash/tree/main)
+  - [Python automation with scripting](https://github.com/V-Holguin/PythonScripting)
  
 <h2>📈 Tableau Dashboard Portfolio:</h2>
 
