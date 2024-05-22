@@ -3,7 +3,8 @@
 <h2>🎓 Education:</h2>
 
 - <b>B.S. Applied Mathematics with a Concentration in Economics</b>
-  - University of California, Riverside 2023
+  - University of California, Riverside
+      - December, 2023
 
 <h2>🎖 Accomplishments:</h2>
 
