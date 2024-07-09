@@ -13,12 +13,14 @@
 
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
+- <b>Python Cleaning and Exploring, SQL Cleaning, and Tableau Visualization OH MY</b>
+  - [San Antonio Home Prices](https://github.com/V-Holguin/SanAntonioHomes/tree/main)
+
 - <b>SQL Cleaning and Excel Visualization</b>
   - [Grass Germination](https://github.com/V-Holguin/Grass-Germination/tree/main)
  
 - <b>Python Cleaning and Tableau Visualization</b>
   - [LAPD Crime Data](https://github.com/V-Holguin/LAPD-Crime)
-  - [San Antonio Home Prices](https://github.com/V-Holguin/SanAntonioHomes/tree/main)
 
 - <b>Data Exploration and Analysis in Python and R</b>
   - [Python and R portfolio](https://github.com/V-Holguin/Data-Exploration/tree/main)
