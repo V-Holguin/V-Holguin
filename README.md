@@ -11,6 +11,11 @@
 - <b>[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6TM3F9WLB9B8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)</b>
 - <b>[Certified Tableau Desktop Specialist](https://www.credly.com/badges/29931a08-4ebc-4536-995a-3c7c72d8c253)</b>
 
+<h2>👨‍🏫 Data Reporting Projects:</h2>
+
+- <b>Python Cleaning and Exploring, Tableau Visualization, Microsoft Word Report Creation</b>
+  - [San Antonio Home Prices](https://github.com/V-Holguin/SmallProjects/blob/main/XYZ_Absenteeism_Report.docx)
+
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
 - <b>Python Cleaning and Exploring, SQL Cleaning, and Tableau Visualization OH MY</b>
