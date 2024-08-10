@@ -16,6 +16,11 @@
 - <b>Python Cleaning and Exploring, Tableau Visualization, Microsoft Word Report Creation</b>
   - [San Antonio Home Prices](https://github.com/V-Holguin/SmallProjects/blob/main/XYZ_Absenteeism_Report.docx)
 
+- <b>KQL Cleaning and Exploring, Power BI Visualization, Microsoft Word Report Creation</b>
+  - [Retail Customer Subscription Tiers](https://github.com/V-Holguin/SubscriptionTiers)
+
+https://github.com/V-Holguin/SubscriptionTiers
+
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
 - <b>Python Cleaning and Exploring, SQL Cleaning, and Tableau Visualization OH MY</b>
