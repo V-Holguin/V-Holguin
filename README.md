@@ -19,8 +19,6 @@
 - <b>KQL Cleaning and Exploring, Power BI Visualization, Microsoft Word Report Creation</b>
   - [Retail Customer Subscription Tiers](https://github.com/V-Holguin/SubscriptionTiers)
 
-https://github.com/V-Holguin/SubscriptionTiers
-
 <h2>👨‍💻 Data Cleaning and Visualizing Projects:</h2>
 
 - <b>Python Cleaning and Exploring, SQL Cleaning, and Tableau Visualization OH MY</b>
