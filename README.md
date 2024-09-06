@@ -14,7 +14,7 @@
 <h2>👨‍🏫 Data Reporting Projects:</h2>
 
 - <b>Python Cleaning and Exploring, Tableau Visualization, Microsoft Word Report Creation</b>
-  - [San Antonio Home Prices]((https://github.com/V-Holguin/SanAntonioHomes)
+  - [San Antonio Home Prices](https://github.com/V-Holguin/SanAntonioHomes)
 
 - <b>KQL Cleaning and Exploring, Power BI Visualization, Microsoft Word Report Creation</b>
   - [Retail Customer Subscription Tiers](https://github.com/V-Holguin/SubscriptionTiers)
